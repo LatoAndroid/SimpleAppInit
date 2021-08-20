@@ -5,7 +5,6 @@ import android.util.Log
 import com.htjy.app.common_util.init_manager.base.ISdkInitInterface
 
 /**
- * @copyright:安心家公司 版权所有
  * @author:jiangwei
  * @version:1.0
  * @date:8/20/21$
