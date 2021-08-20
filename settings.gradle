@@ -1,0 +1,3 @@
+include ':appinit'
+include ':app'
+rootProject.name = "SimpleAPPInit"
